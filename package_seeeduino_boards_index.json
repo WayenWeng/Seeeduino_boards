@@ -44,7 +44,7 @@
         {
           "name": "Seeeduino SAMD",
           "architecture": "Seeeduino_SAMD",
-          "version": "1.0.4",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/WayenWeng/Seeeduino_boards/master/Seeeduino_SAMD_v1.0.0.tar.bz2",
           "archiveFileName": "Seeeduino_SAMD_v1.0.0.tar.bz2",
@@ -80,7 +80,7 @@
         {
           "name": "RePhone core 2G-Atmel32u4",
           "architecture": "RePhone_core_2G_Atmel32u4",
-          "version": "1.0.2",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
@@ -110,7 +110,7 @@
         {
           "name": "RePhone core 2G-AtmelSAMD21",
           "architecture": "RePhone_core_2G_AtmelSAMD21",
-          "version": "1.0.3",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/WayenWeng/Seeeduino_boards/master/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
@@ -145,19 +145,19 @@
           ]
         },
         {
-          "name": "RePhone",
+          "name": "Rephone core 2G MT2502",
           "architecture": "Rephone_core_2G_MT2502",
-          "version": "0.0.2",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.seeedstudio.com/forum/viewforum.php?f=71"
           },
-          "url": "https://github.com/Seeed-Studio/Arduino_IDE_for_RePhone/releases/download/v0.9/seeed_rephone_sdk_for_arduino_0.0.2.zip",
-          "archiveFileName": "seeed_rephone_sdk_for_arduino_0.0.2.zip",
-          "checksum": "SHA-256:2b49414c6a0c79a21345d6a38b00baf9abc556707bd05f8b7ed1a1a450dca48b",
-          "size": "480325",
+          "url": "https://raw.githubusercontent.com/WayenWeng/Seeeduino_boards/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
+          "archiveFileName": "RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
+          "checksum": "SHA-256:2efd5b9abd4ed64abcfc696ce6fa40924298aa0209fa67b1bff68bb9dadf9ecc",
+          "size": "249744",
           "boards": [
-            {"name": "RePhone"}
+            {"name": "Rephone core 2G MT2502"}
           ],
           "toolsDependencies": [
             {
